@@ -1,4 +1,5 @@
 
+alert ("file loaded")
 var argscheck = require('cordova/argscheck'),
     exec = require('cordova/exec');
 
