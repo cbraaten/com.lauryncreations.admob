@@ -10,8 +10,8 @@
 	<author>Liming Xie</author>
 	<license>MIT</license>
 	<keywords>rjfun,admob,google,ad</keywords>
-    <repo>https://github.com/floatinghotpot/cordova-admob-pro.git</repo>
-    <issue>https://github.com/floatinghotpot/cordova-admob-pro/issues</issue>
+    <repo>https://github.com/cbraaten/com.lauryncreations.cordova.admob.git</repo>
+    <issue>https://github.com/cbraaten/com.lauryncreations.cordova.admob/issues</issue>
 
 	<engines>
 	    <engine name="cordova" version=">=3.0" />
